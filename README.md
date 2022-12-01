@@ -19,7 +19,7 @@ Static Web App URL : https://black-dune-004b83710.2.azurestaticapps.net
 
 App Services URL : https://biodataa.azurewebsites.net
 
-## My Website Link: https://orange-bush-07c571410.2.azurestaticapps.net/
+## My Website Link: https://black-dune-004b83710.2.azurestaticapps.net
 
 ## Home
 ![Screenshot 2022-12-01 193421](https://user-images.githubusercontent.com/116268206/205073355-5173f96f-0cf9-48d5-9d18-7396fc87559d.jpg)
