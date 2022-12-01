@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'Biodataa'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5E9EA85B19B349F89C320A052EE97F8F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_328C7C86A144424DB0FF6DADD3E88F07 }}
           package: .
