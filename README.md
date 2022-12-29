@@ -36,3 +36,5 @@ App Services URL : https://biodataa.azurewebsites.net
 
 ## Azure Services Used
 ![Screenshot 2022-12-01 193813](https://user-images.githubusercontent.com/116268206/205073668-d5448f70-7988-4c16-93ac-633bc5feb2f2.jpg)
+![Screenshot 2022-12-29 104016](https://user-images.githubusercontent.com/116268206/209906237-8c0678cc-f232-4cec-aa90-79fd9a2e4b11.jpg)
+![Screenshot 2022-12-29 104045](https://user-images.githubusercontent.com/116268206/209906242-5a74f2e2-d4e0-4c3b-937a-c2454f724cc7.jpg)
